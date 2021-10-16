@@ -1,4 +1,4 @@
-## Hi, I'm Pedro Viegas PhD student in web sciences at UTAD and student of Computer Science (CS50) at Harvard.
+## Hi, I'm Pedro Viegas, PhD student in web sciences at UTAD and student of Computer Science (CS50) at Harvard.
 <div align="center">
   <a href="https://github.com/pedroviegas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedroviegas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
